@@ -10,3 +10,6 @@ cp /path/to/logo.png
     <img src="logo.png" alt="Logo">
   </body>
 </html>
+git init
+git add .
+git commit -m "Initial commit"
