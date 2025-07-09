@@ -1,0 +1,12 @@
+mkdir my-site
+cd my-site
+touch index.html
+cp /path/to/logo.png
+<!DOCTYPE html>
+<html>
+  <head><title>My Site</title></head>
+  <body>
+    <h1>Hello World</h1>
+    <img src="logo.png" alt="Logo">
+  </body>
+</html>
